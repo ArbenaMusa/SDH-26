@@ -11,8 +11,7 @@ Kjo javë mbulon algoritmet bazë të substitution ciphers dhe implementimin e t
 - One-Time Pad (OTP)
 
 ## Struktura
-- `slides/` — slajdet e javës
-- `examples/` — shembujt e implementuar në klasë
+- `examples/` — shembujt e implementuar
 - `exercises/` — ushtrimet për studentët
 - `solutions/` — zgjidhje ose udhëzime shtesë
 
